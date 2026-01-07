@@ -1,0 +1,5 @@
+{
+  "name": "Jadwal XI DKV 2",
+  "description": "Interactive class schedule application for XI DKV 2 with teacher details, picket schedules, and Excel export functionality.",
+  "requestFramePermissions": []
+}
